@@ -1,0 +1,4 @@
+.vagrant/
+testanalytics_frontend/.idea/compiler.xml
+testanalytics_frontend/.idea/
+testanalytics_frontend/target/
